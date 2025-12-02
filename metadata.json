@@ -1,0 +1,5 @@
+{
+  "name": "CineGen AI",
+  "description": "A professional multi-stage AI tool for cinematic content generation. Extracts visual and narrative styles to generate consistent scripts, image prompts, animation prompts, and voiceovers.",
+  "requestFramePermissions": []
+}
